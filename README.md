@@ -1,5 +1,7 @@
-# D1ffic00lt
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=D1ffic00lt)](https://github.com/D1ffic00lt)
+<h1 align="center">D1ffic00lt</h1>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D1ffic00lt&exclude_repo=dano-olympiad-final-stage,yandex-intensives-project)](https://github.com/D1ffic00lt/algorithms)
+<div align="center">
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=D1ffic00lt)](https://github.com/D1ffic00lt)
+  
+</div>
