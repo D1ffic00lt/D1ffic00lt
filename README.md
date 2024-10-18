@@ -50,13 +50,10 @@
     <img src="https://komarev.com/ghpvc/?username=D1ffic00lt&style=for-the-badge">
 </div>
 
-<!-- <div align="center"> -->
-<!--     <img src="https://github-readme-stats.vercel.app/api?username=D1ffic00lt&show_icons=true&theme=radical"/> -->
-<!--     <img src="https://streak-stats.demolab.com/?user=D1ffic00lt&theme=radical"/> -->
-<!-- </div> -->
-![](https://github-readme-stats.vercel.app/api?username=D1ffic00lt&show_icons=true&theme=radical&include_all_commits=true)
-![](https://streak-stats.demolab.com/?user=D1ffic00lt&theme=radical)
-
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=D1ffic00lt&show_icons=true&theme=radical&include_all_commits=true&card_width=400"/>
+    <img src="https://streak-stats.demolab.com/?user=D1ffic00lt&theme=radical&card_width=400"/>
+</div>
 
 
 
