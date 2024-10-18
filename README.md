@@ -1,4 +1,6 @@
-# Welcome to My GitHub Profile!
+<h1 align="center">Hi there!👋</h1>
+<h2 align="center">HSE DSBA student. ML and backend engineer.</h3>
+
 
 ## Tech Stack
 
@@ -41,7 +43,12 @@
 | National Technological Olympiad in AI 2024                                     | All-Russian   | Finalist                        |                                | No Repo |
 | National Olympiad in Big Data and ML 2024                                      | All-Russian   | Finalist                        |                                | No Repo |
 
+
 ## GitHub Stats
+
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=D1ffic00lt&style=for-the-badge">
+</div>
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=D1ffic00lt&show_icons=true&theme=radical"/>
@@ -49,4 +56,6 @@
 </div>
 
 
+## GitHub Profile Trophy
+![](https://github-profile-trophy.vercel.app/?username=D1ffic00lt&rank=SECRET,SSS,SS,S)
 
