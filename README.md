@@ -46,6 +46,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=D1ffic00lt&show_icons=true&theme=radical)
 ![](https://streak-stats.demolab.com/?user=D1ffic00lt&theme=radical)
 
----
-
-Thank you for visiting my profile! 🚀
