@@ -30,7 +30,7 @@
 | Competition                                                                    | Level         | Result                          | Prize                          | Repository Link                       |
 | ------------------------------------------------------------------------------ | ------------- | ------------------------------- | ------------------------------ | ------------------------------------- |
 | Governor's Cup in Computer Vision (Team)                                       | Regional      | 🥇 Winner                       | NVIDIA 3060ti + Internship     | [Link](https://github.com/D1ffic00lt/computer-vision-cup) |
-| Hackathon «Cyber Siberia 2023»                                                 | All-Russian   | 🥇 Winner                       | 5000 rubles (lol) + Internship | [Link](https://github.com/llitone/acceptance-of-apartments-app) |
+| Hackathon «Cyber Siberia 2023»                                                 | All-Russian   | 🥇 Winner                       | 10,000 rubles + Internship | [Link](https://github.com/llitone/acceptance-of-apartments-app) |
 | National Data Analysis Olympiad DANO 2022                                      | All-Russian   | 🥈 2nd degree          |                                | [Link](https://github.com/D1ffic00lt/dano-olympiad-final-stage) |
 | Digital Breakthrough: AI Season 2023                                           | All-Russian   | 🥈 2nd place                    | 200,000 rubles                 | [Link](https://github.com/llitone/rutube-video-captioning) |
 | Regional Selection for the Championship in Professional Skills «Professionals» | All-Russian   | 🥈 2nd place                    | 30,000 rubles                  | No Repo |
