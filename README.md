@@ -19,7 +19,7 @@
 - **Machine Learning Operations (MLOps)**: ClearML, Docker
 
 ### Backend & Databases
-- **Backend Development**: Flask
+- **Backend Development**: Flask, FastAPI
 - **Caching**: Redis
 - **Containerization**: Docker, Docker Compose
 - **Databases**: SQL, SQLAlchemy
