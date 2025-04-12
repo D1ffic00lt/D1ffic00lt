@@ -5,12 +5,12 @@
 ## Tech Stack
 
 ### AI Specializations
-- **Natural Language Processing (NLP)**
 - **Big Data Analytics**
 - **Image/Video Classification**
 - **Image/Video Segmentation**
 - **Object Detection**
-
+- **Natural Language Processing (NLP)**
+  
 ### AI Frameworks & Tools
 - **Deep Learning**: PyTorch, TensorFlow
 - **Computer Vision**: OpenCV, Roboflow, Torchvision
