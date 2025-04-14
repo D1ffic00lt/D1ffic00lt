@@ -22,7 +22,7 @@
 - **Backend Development**: Flask, FastAPI
 - **Caching**: Redis
 - **Containerization**: Docker, Docker Compose
-- **Databases**: SQL, SQLAlchemy, Mimio(S3)
+- **Databases**: SQL, SQLAlchemy, Mimio (S3)
 
 ## Achievements
 
