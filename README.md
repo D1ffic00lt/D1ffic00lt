@@ -24,6 +24,9 @@
 - **Containerization**: Docker, Docker Compose
 - **Databases**: SQL, SQLAlchemy, Mimio (S3)
 
+### Other 
+- LaTeX
+
 ## Achievements
 
 ### Olympiads
