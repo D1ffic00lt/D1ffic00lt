@@ -44,7 +44,7 @@
 | All-Russian Olympiad in AI 2024                                                | All-Russian   | Finalist, 27 out of 15,000                        |                                | No Repo |
 | National Technological Olympiad in AI 2023                                     | All-Russian   | Finalist                        |                                | No Repo |
 | National Technological Olympiad in AI 2024                                     | All-Russian   | Finalist                        |                                | No Repo |
-| National Olympiad in Big Data and ML 2024                                      | All-Russian   | Finalist                        |                                | No Repo |
+| National Technological Olympiad in Big Data and ML 2024                                      | All-Russian   | Finalist                        |                                | No Repo |
 
 
 ## GitHub Stats
