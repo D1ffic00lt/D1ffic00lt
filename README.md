@@ -1,5 +1,5 @@
 <h1 align="center">Hi there!👋</h1>
-<h2 align="center">HSE DSBA student. ML and backend engineer.</h3>
+<h2 align="center">HSE & UoL DSBA student. ML and backend engineer.</h3>
 
 
 ## Tech Stack
